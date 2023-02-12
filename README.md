@@ -1,6 +1,6 @@
 In this project, let's build an **Events** app by applying the concepts we have learned till now.
 
-## Hello world
+## Hello world - edited by someone
 
 ### Refer to the image below:
 
